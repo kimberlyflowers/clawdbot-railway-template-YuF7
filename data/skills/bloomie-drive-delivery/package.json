@@ -1,0 +1,20 @@
+{
+  "name": "drive-delivery",
+  "version": "1.0.0",
+  "description": "Upload files to Google Drive using service account and return shareable URLs",
+  "main": "scripts/upload.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "mime-types": "^2.1.35"
+  },
+  "keywords": [
+    "google-drive",
+    "upload",
+    "service-account",
+    "file-delivery"
+  ],
+  "author": "Jaden",
+  "license": "MIT"
+}

@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment and secrets
+.env
+.env.local
+.drive-tokens.json
+
+# Build artifacts
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+*.log
+
+# Test artifacts
+test-file.txt
